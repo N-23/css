@@ -20,6 +20,9 @@
 li {
     float:left;
  }
+ script {
+   display: inline-block;
+ }
 /********** Header Properties **********/
 header {
     /* width: 1200px; */
